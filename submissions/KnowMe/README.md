@@ -1,6 +1,19 @@
-# Know Me - Mental Health Analyzer
+# 🧠 Know Me - Mental Health Analysis App
+**Peek into your mind—through the story your phone tells.**
 
-A full-stack application that analyzes social media data to provide mental health insights using AI.
+
+
+A cutting-edge React prototype that analyzes users' social media behavior to provide personalized mental health insights and recommendations. Built for the Oct 4, 2025 Hackathon, Know Me combines modern web technologies with AI-powered analysis to help users understand their digital wellbeing.
+
+
+
+## 🌟 Overview
+
+
+
+Know Me is a revolutionary mental health analysis platform that leverages social media data to provide users with actionable insights about their emotional wellbeing, stress patterns, and digital habits. By connecting multiple social media accounts, users receive comprehensive analysis including emotional trends, anxiety risk assessment, and personalized recommendations for improving their mental health.
+
+
 
 ## 🚀 Features
 
@@ -152,4 +165,37 @@ AI Analysis → Chart Generation → Results Display
 - **Mobile Navigation**: Easy back/forward navigation
 - **Optimized Charts**: Readable on small screens
 
-This is a complete, production-ready mental health analysis application with a beautiful UI and powerful AI backend!
+
+## 🔮 Future Roadmap
+
+
+
+### **Phase 1: Real Data Integration**
+
+- [ ] OAuth integration with social media APIs
+
+- [ ] Secure data storage and user authentication
+
+- [ ] Real-time data processing and analysis
+
+
+
+### **Phase 2: Advanced Analytics**
+
+- [ ] Machine learning models for pattern recognition
+
+- [ ] Predictive analytics for mental health trends
+
+- [ ] Personalized insight generation
+
+
+
+### **Phase 3: Enhanced Features**
+
+- [ ] Export functionality for health reports
+
+- [ ] Integration with health tracking apps
+
+- [ ] Professional therapist dashboard
+
+- [ ] Community features and support groups
